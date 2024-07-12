@@ -1,0 +1,26 @@
+.photo-upload-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ddd;
+    height: 309px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.photo-upload-button {
+    display: flex;
+    margin-left: -70px;
+    position: absolute;
+    margin-top: 10px;
+    background-color: #122B49;
+    border: none;
+}
+
+.photo-upload-button:hover,.photo-upload-button::selection{
+    background-color: #122B49;
+}
+
+.button::selection {
+    background-color: blue;
+}
