@@ -24,9 +24,10 @@ This Project is developed using ReactJs, NodeJs, ExpressJs and MongoDB.
 
 ![Screenshot 2024-07-12 231024](https://github.com/user-attachments/assets/db7b1bf2-bec1-4f55-a967-7468b5818c9b)
 
-![Screenshot 2024-07-12 231037](https://github.com/user-attachments/assets/1610fae0-a990-4e47-93ff-3b26c1d17107)
+![Screenshot 2024-07-12 231454](https://github.com/user-attachments/assets/80843332-3ba6-4c49-a45e-53b2e12e6600)
 
-![Screenshot 2024-07-12 231056](https://github.com/user-attachments/assets/af9530bf-c466-4aef-9216-46a22e7adcc0)
+![Screenshot 2024-07-12 231516](https://github.com/user-attachments/assets/07333282-5cd6-4da0-82e7-dc2bb5160d85)
+
 
 
 
